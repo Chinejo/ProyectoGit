@@ -1,0 +1,11 @@
+En el front para inicializar necesitamos 
+
+npm create vite@latest
+npm install para la carpeta nodemodules
+
+y para el back, para inicialiar;p neceesitamos
+
+npm init -y
+npm i express
+mpn i nodemon
+npm i mysql2
